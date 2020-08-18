@@ -1,0 +1,10 @@
+2-Implementing suggestion-hint functionality-
+While adding new grant code the text box Enter Grant description should show hints from database.If we want to select
+existing description then we can select that otherwise we can create a new description also.
+
+3-Genereate report in pdf and excel format-
+
+For this we need to create two buttons containg lables as pdf and excel.
+If we click on pdf then pdf report should be generated and if we click on excel
+button then excel report should be generated.
+
